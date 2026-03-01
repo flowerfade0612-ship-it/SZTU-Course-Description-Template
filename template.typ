@@ -695,7 +695,7 @@
   if explanation-show and explanation-content != none {
     page(
       header: [
-        Course Description - #cover-student-name
+        #cover-title-text #h(0.1em) - #h(0.1em) #cover-student-name
         #h(1fr)
         #cover-school-text
       ],
@@ -711,7 +711,7 @@
   if module-content-show-en and data-en != none {
     page(
       header: [
-        Course Description - #cover-student-name
+        #cover-title-text #h(0.1em) - #h(0.1em) #cover-student-name
         #h(1fr)
         #cover-school-text
       ],
@@ -732,7 +732,7 @@
   if module-content-show-de and data-de != none {
     page(
       header: [
-        Modulinhalte - #cover-student-name
+        #cover-title-text #h(0.1em) - #h(0.1em) #cover-student-name
         #h(1fr)
         #cover-school-text
       ],
@@ -752,7 +752,7 @@
   // ----- 5. 设置正文页面样式 -----
   set page(
     header: [
-      Course Description - #cover-student-name
+      #cover-title-text #h(0.1em) - #h(0.1em) #cover-student-name
       #h(1fr)
       #cover-school-text
     ],
