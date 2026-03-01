@@ -79,10 +79,6 @@ cargo install typst-cli
 
 克隆或下载本项目：
 
-```bash
-git clone <repository-url>
-cd "typst-course-description-template"
-```
 
 ### 3. 配置你的信息
 
@@ -448,11 +444,6 @@ typst compile --font-path ./fonts "Course Description.typ"
 
 通过对应的 `show` 开关可以控制每个元素的显示/隐藏。
 
----
-
-## 📄 许可证
-
-本项目采用 MIT 许可证。你可以自由使用、修改和分发本模板。
 
 ---
 
