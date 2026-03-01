@@ -42,6 +42,24 @@
 - **双语版** - 同时显示英文和德文（带 "English Version" / "Deutsche Version" 标题）
 
 ---
+### 示例
+
+| ![Course Description_01](https://github.com/user-attachments/assets/3386e3ba-56c0-4276-bec7-0402a1715abb) | ![Course Description_02](https://github.com/user-attachments/assets/40a4ac76-edd4-4d5c-ab6c-b7a354e588c0) |
+| :------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: |
+| ![Course Description_03](https://github.com/user-attachments/assets/f795e8c6-e42f-42e5-934e-a5b128f1d492) | ![Course Description_04](https://github.com/user-attachments/assets/772e7c05-217c-40d7-8996-7e4da61effe0) |
+| ![Course Description_05](https://github.com/user-attachments/assets/ec32a4cf-d1c2-47e9-9477-325cda16a85d) | ![Course Description_06](https://github.com/user-attachments/assets/c557a750-079a-46b8-b3cf-42a224a80dd5) |
+| ![Course Description_07](https://github.com/user-attachments/assets/3bf184e0-5009-434f-bba7-6770518637ab) | ![Course Description_08](https://github.com/user-attachments/assets/aa55060c-d2e5-4ac1-9af9-05a81f085166) |>
+
+
+---
+### 💰 支持项目
+如果这个课程描述模板对你有帮助，欢迎通过以下方式支持我：
+
+小红书ID：205011192，店铺内唯一链接
+
+打赏将用于项目的持续维护和新功能开发，感谢你的支持！
+
+---
 
 ## 📁 项目结构
 
