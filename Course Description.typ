@@ -36,13 +36,13 @@
 #let cover-logo-width = 100%
 
 // ------------------------------------
-// 封面 Logo 下方的大学名称配置
-// （显示在 Logo 下方、Course Description 标题上方）
+// 学校名称配置（封面 Logo 下方和页眉右上角共用）
+// 仅可以修改logo下方的学校名称的字体大小和粗细，学校名称文本内容和页眉右上角的学校名称文本内容由 cover-university-text 统一控制
 // ------------------------------------
-#let cover-university-above-title-show = true
-#let cover-university-above-title-text = "Shenzhen Technology University"
-#let cover-university-above-title-size = 30pt
-#let cover-university-above-title-weight = "bold"
+#let cover-university-show = true
+#let cover-university-text = "Shenzhen Technology University"
+#let cover-university-size = 30pt
+#let cover-university-weight = "bold"
 
 // ------------------------------------
 // 专业名称配置
@@ -276,6 +276,12 @@
   cover-school-show: cover-school-show,
   cover-school-text: cover-school-text,
   
+  // 学校名称
+  cover-university-show: cover-university-show,
+  cover-university-text: cover-university-text,
+  cover-university-size: cover-university-size,
+  cover-university-weight: cover-university-weight,
+  
   // 专业名称
   cover-major-show: cover-major-show,
   cover-major-text: cover-major-text,
@@ -294,12 +300,6 @@
   cover-logo-show: cover-logo-show,
   cover-logo-path: cover-logo-path,
   cover-logo-width: cover-logo-width,
-  
-  // Logo 下方的大学名称
-  cover-university-above-title-show: cover-university-above-title-show,
-  cover-university-above-title-text: cover-university-above-title-text,
-  cover-university-above-title-size: cover-university-above-title-size,
-  cover-university-above-title-weight: cover-university-above-title-weight,
   
   // ---- 水印配置 ----
   watermark-show: watermark-show,
