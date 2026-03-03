@@ -55,7 +55,7 @@
 ### 💰 支持项目
 如果这个课程描述模板对你有帮助，欢迎通过以下方式支持我：
 
-小红书ID：205011192，店铺内唯一链接
+小红书ID：205011192，首页置顶图文内购买
 
 打赏将用于项目的持续维护和新功能开发，感谢你的支持！
 
@@ -109,7 +109,7 @@ cargo install typst-cli
 #let cover-date = "2025-01-15"
 #let cover-major-text = "你的专业名称"
 #let cover-school-text = "你的学院名称"
-#let cover-university-above-title-text = "你的大学名称"
+#let cover-university-text = "你的大学名称"
 ```
 
 ### 4. 填写课程数据
@@ -159,10 +159,10 @@ cargo install typst-cli
 
 | 配置项 | 说明 | 默认值 |
 |--------|------|--------|
-| `cover-university-above-title-show` | 是否显示 | `false` |
-| `cover-university-above-title-text` | 大学名称文本 | `"Shenzhen Technology University"` |
-| `cover-university-above-title-size` | 字体大小 | `30pt` |
-| `cover-university-above-title-weight` | 字体粗细 | `"bold"` |
+| `cover-university-show` | 是否显示 | `true` |
+| `cover-university-text` | 大学名称文本 | `"Shenzhen Technology University"` |
+| `cover-university-size` | Logo 下方字体大小 | `30pt` |
+| `cover-university-weight` | Logo 下方字体粗细 | `"bold"` |
 
 #### 专业名称配置
 
